@@ -1,3 +1,10 @@
 p{
     color: red;
+    background-color: yellow;
+    text-align: center;
+    text-shadow: 0 0 11px rgba(0,0,0,0.9);
+    box-shadow: 0 0 9px rgba(0,0,0,0.9);
+    border: none;
+    border-radius: 21px;
+    z-index: 100000;
 }
